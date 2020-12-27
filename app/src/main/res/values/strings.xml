@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">sowroom</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout">Logout</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="ic_home">Beranda</string>
+    <string name="ic_buku">Buku</string>
+    <string name="ic_favorit">Favorit</string>
+    <string name="ic_provil">Provil</string>
+</resources>
